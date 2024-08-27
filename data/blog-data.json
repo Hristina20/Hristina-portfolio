@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Blog 1",
+        "content": "Lorem ipsum",
+        "createdAt": "2015-01-25",
+        "imageUrl": "https://images.unsplash.com/photo-1723909776959-7b0cc2fc94f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "title": "Blog 2",
+        "content": "Lorem ipsum",
+        "createdAt": "2015-01-25",
+        "imageUrl": "https://images.unsplash.com/photo-1723909776959-7b0cc2fc94f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "title": "Blog 3",
+        "content": "Lorem ipsum",
+        "createdAt": "2015-01-25",
+        "imageUrl": "https://images.unsplash.com/photo-1723909776959-7b0cc2fc94f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 4,
+        "title": "Blog 4",
+        "content": "Lorem ipsum",
+        "createdAt": "2015-01-25",
+        "imageUrl": "https://images.unsplash.com/photo-1723909776959-7b0cc2fc94f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
+
+
