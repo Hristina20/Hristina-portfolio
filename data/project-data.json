@@ -5,7 +5,8 @@
         "content": "Lorem ipsum",
         "createdAt": "2018-05-20",
         "readingTime": 10,
-        "imgUrl": "https://plus.unsplash.com/premium_photo-1723901829993-56f5582053e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D"
+        "imgUrl": "https://plus.unsplash.com/premium_photo-1723901829993-56f5582053e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D",
+        "isFeatured": true
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "content": "Lorem ipsum",
         "createdAt": "2018-05-20",
         "readingTime": 10,
-        "imgUrl": "https://plus.unsplash.com/premium_photo-1723901829993-56f5582053e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D"
+        "imgUrl": "https://plus.unsplash.com/premium_photo-1723901829993-56f5582053e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D",
+        "isFeatured": true
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "content": "Lorem ipsum",
         "createdAt": "2018-05-20",
         "readingTime": 10,
-        "imgUrl": "https://plus.unsplash.com/premium_photo-1723901829993-56f5582053e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D"
+        "imgUrl": "https://plus.unsplash.com/premium_photo-1723901829993-56f5582053e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D",
+        "isFeatured": true
     },
     {
         "id": 4,
@@ -29,6 +32,7 @@
         "content": "Lorem ipsum",
         "createdAt": "2018-05-20",
         "readingTime": 10,
-        "imgUrl": "https://plus.unsplash.com/premium_photo-1723901829993-56f5582053e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D"
+        "imgUrl": "https://plus.unsplash.com/premium_photo-1723901829993-56f5582053e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D",
+        "isFeatured": false
     }
 ]
